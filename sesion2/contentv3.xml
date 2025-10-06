@@ -445,7 +445,7 @@ $exe.options.atools.translator=true
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="20395"></int>
+                 <int value="20131"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -470,7 +470,7 @@ $exe.options.atools.translator=true
                  <string role="key" value="_storageName"></string>
                  <string value="mefpd_gob_web_1000px.jpg"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="/var/folders/nk/_xm7qdw52td59ghm397b0vtr0000gn/T/tmpw21_bI/mefpd_gob_web_1000px.jpg"></string>
+                 <string value="/var/folders/z_/ptn8hsg11334f85yvnnv077m0000gn/T/tmpkressH/mefpd_gob_web_1000px.jpg"></string>
                  <string role="key" value="checksum"></string>
                  <string value="365c77664fd8989aaf8d51547bc7d373"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -544,7 +544,7 @@ $exe.options.atools.translator=true
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="scorm"></string>
+     <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:Unit%201%3A%20Your%20First%20Day%20at%20Work%20-%20Session%202"></string>
      <string role="key" value="parent"></string>
@@ -1489,7 +1489,7 @@ $exe.options.atools.translator=true
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="scorm"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Unit%201%3A%20Your%20First%20Day%20at%20Work%20-%20Session%202:1.%20Listening"></string>
         <string role="key" value="parent"></string>
@@ -1787,7 +1787,7 @@ $exe.options.atools.translator=true
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="scorm"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Unit%201%3A%20Your%20First%20Day%20at%20Work%20-%20Session%202:2.%20Vocabulary"></string>
         <string role="key" value="parent"></string>
@@ -2272,7 +2272,7 @@ $exe.options.atools.translator=true
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="20393"></int>
+                        <int value="20129"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2297,7 +2297,7 @@ $exe.options.atools.translator=true
                         <string role="key" value="_storageName"></string>
                         <string value="U1S2_Vocabulary_Focus.mp3"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/nk/_xm7qdw52td59ghm397b0vtr0000gn/T/tmpw21_bI/U1S2_Vocabulary_Focus.mp3"></string>
+                        <string value="/var/folders/z_/ptn8hsg11334f85yvnnv077m0000gn/T/tmpkressH/U1S2_Vocabulary_Focus.mp3"></string>
                         <string role="key" value="checksum"></string>
                         <string value="381df5fb3a0b4a7742c4e6eea4c1109f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2324,7 +2324,7 @@ $exe.options.atools.translator=true
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="20394"></int>
+                        <int value="20130"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2349,7 +2349,7 @@ $exe.options.atools.translator=true
                         <string role="key" value="_storageName"></string>
                         <string value="U1S2_Vocabulary_Focus.mp3"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/nk/_xm7qdw52td59ghm397b0vtr0000gn/T/tmpw21_bI/U1S2_Vocabulary_Focus.mp3"></string>
+                        <string value="/var/folders/z_/ptn8hsg11334f85yvnnv077m0000gn/T/tmpkressH/U1S2_Vocabulary_Focus.mp3"></string>
                         <string role="key" value="checksum"></string>
                         <string value="381df5fb3a0b4a7742c4e6eea4c1109f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2376,7 +2376,7 @@ $exe.options.atools.translator=true
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="20396"></int>
+                        <int value="20132"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2401,7 +2401,7 @@ $exe.options.atools.translator=true
                         <string role="key" value="_storageName"></string>
                         <string value="U1S2_Vocabulary_1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/nk/_xm7qdw52td59ghm397b0vtr0000gn/T/tmpw21_bI/U1S2_Vocabulary_1.png"></string>
+                        <string value="/var/folders/z_/ptn8hsg11334f85yvnnv077m0000gn/T/tmpkressH/U1S2_Vocabulary_1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8577d0f6505d702c85066e25b9597510"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2428,7 +2428,7 @@ $exe.options.atools.translator=true
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="20397"></int>
+                        <int value="20133"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2453,7 +2453,7 @@ $exe.options.atools.translator=true
                         <string role="key" value="_storageName"></string>
                         <string value="U1S2_Vocabulary_3.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/nk/_xm7qdw52td59ghm397b0vtr0000gn/T/tmpw21_bI/U1S2_Vocabulary_3.png"></string>
+                        <string value="/var/folders/z_/ptn8hsg11334f85yvnnv077m0000gn/T/tmpkressH/U1S2_Vocabulary_3.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="88324604c6a65ba04076a45d7f1302ff"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2480,7 +2480,7 @@ $exe.options.atools.translator=true
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="20398"></int>
+                        <int value="20134"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2505,7 +2505,7 @@ $exe.options.atools.translator=true
                         <string role="key" value="_storageName"></string>
                         <string value="U1S2_Vocabulary_2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/nk/_xm7qdw52td59ghm397b0vtr0000gn/T/tmpw21_bI/U1S2_Vocabulary_2.png"></string>
+                        <string value="/var/folders/z_/ptn8hsg11334f85yvnnv077m0000gn/T/tmpkressH/U1S2_Vocabulary_2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="c98feefca51add64908ae7d1c5409898"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2580,7 +2580,7 @@ $exe.options.atools.translator=true
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Unit%201%3A%20Your%20First%20Day%20at%20Work%20-%20Session%202:2.%20Vocabulary:2.1-%20Vocabulary%20Focus"></string>
            <string role="key" value="parent"></string>
@@ -3272,7 +3272,7 @@ $exe.options.atools.translator=true
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Unit%201%3A%20Your%20First%20Day%20at%20Work%20-%20Session%202:2.%20Vocabulary:2.2.%20Practice"></string>
            <string role="key" value="parent"></string>
