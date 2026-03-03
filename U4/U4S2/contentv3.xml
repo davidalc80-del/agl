@@ -1,0 +1,3613 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<instance xmlns="http://www.exelearning.org/content/v0.3" reference="4" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
+ <dictionary>
+  <string role="key" value="_title"></string>
+  <unicode value="Unit 4: Problem solving at work - Session 2"></unicode>
+  <string role="key" value="idevices"></string>
+  <list></list>
+  <string role="key" value="_addAccessibilityToolbar"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_addPagination"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_addSearchBox"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_author"></string>
+  <unicode value="Juan Ignacio Plaza Rodríguez"></unicode>
+  <string role="key" value="_backgroundImg"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_contextMode"></string>
+  <unicode value="presencial"></unicode>
+  <string role="key" value="_contextPlace"></string>
+  <unicode value="classroom"></unicode>
+  <string role="key" value="_description"></string>
+  <unicode value="Todas las imágenes incluidas en esta unidad han sido generadas mediante inteligencia artificial a través de la herramienta ChatGPT (OpenAI).
+Estas imágenes han sido creadas exclusivamente para uso educativo y no reproducen contenido preexistente. No están sujetas a derechos de autor de terceros y pueden ser utilizadas dentro del marco del proyecto educativo sin fines comerciales.
+Se aplican los términos de uso y licencias correspondientes al servicio de generación de imágenes de OpenAI, que permiten su uso para fines educativos y de desarrollo de materiales propios."></unicode>
+  <string role="key" value="_docType"></string>
+  <unicode value="HTML5"></unicode>
+  <string role="key" value="_exportElp"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_extraHeadContent"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_fieldValidationInfo"></string>
+  <dictionary>
+   <unicode role="key" value="all"></unicode>
+   <dictionary>
+    <unicode role="key" value="mandatory_fields"></unicode>
+    <list>
+     <unicode value="pp_title"></unicode>
+     <unicode value="pp_lang"></unicode>
+     <unicode value="pp_description"></unicode>
+     <unicode value="pp_author"></unicode>
+     <unicode value="pp_newlicense"></unicode>
+    </list>
+   </dictionary>
+   <unicode role="key" value="procomun"></unicode>
+   <dictionary>
+    <unicode role="key" value="mandatory_fields"></unicode>
+    <list>
+     <unicode value="pp_learningResourceType"></unicode>
+    </list>
+    <unicode role="key" value="values_from_list"></unicode>
+    <dictionary>
+     <unicode role="key" value="pp_learningResourceType"></unicode>
+     <list>
+      <unicode value="master class"></unicode>
+      <unicode value="closed exercise or problem"></unicode>
+      <unicode value="real project"></unicode>
+      <unicode value="didactic game"></unicode>
+      <unicode value="webquest"></unicode>
+      <unicode value="open problem"></unicode>
+      <unicode value="simulation"></unicode>
+      <unicode value="questionnaire"></unicode>
+      <unicode value="conceptual map"></unicode>
+     </list>
+    </dictionary>
+   </dictionary>
+  </dictionary>
+  <string role="key" value="_intendedEndUserRoleGroup"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_intendedEndUserRoleTutor"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_intendedEndUserRoleType"></string>
+  <unicode value="learner"></unicode>
+  <string role="key" value="_isChanged"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_isTemplate"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_lang"></string>
+  <unicode value="es"></unicode>
+  <string role="key" value="_learningResourceType"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_levelNames"></string>
+  <list>
+   <unicode value="Tema"></unicode>
+   <unicode value="Sección"></unicode>
+   <unicode value="Unidad"></unicode>
+  </list>
+  <string role="key" value="_name"></string>
+  <unicode value="U4_-_Session_2"></unicode>
+  <string role="key" value="_nextIdeviceId"></string>
+  <int value="10"></int>
+  <string role="key" value="_nextNodeId"></string>
+  <int value="7"></int>
+  <string role="key" value="_nodeIdDict"></string>
+  <dictionary>
+   <unicode role="key" value="0"></unicode>
+   <instance class="exe.engine.node.Node" reference="3">
+    <dictionary>
+     <string role="key" value="_title"></string>
+     <unicode value="Unit 4: Problem solving at work - Session 2"></unicode>
+     <string role="key" value="idevices"></string>
+     <list>
+      <instance class="exe.engine.jsidevice.JsIdevice" reference="1">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value=""></unicode>
+        <string role="key" value="_attributes"></string>
+        <list>
+         <tuple>
+          <string value="title"></string>
+          <list>
+           <string value="Title"></string>
+           <int value="0"></int>
+           <int value="0"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="category"></string>
+          <list>
+           <string value="Category"></string>
+           <int value="0"></int>
+           <int value="1"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="css-class"></string>
+          <list>
+           <string value="CSS class"></string>
+           <int value="0"></int>
+           <int value="2"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="icon"></string>
+          <list>
+           <string value="Icon"></string>
+           <int value="0"></int>
+           <int value="3"></int>
+          </list>
+         </tuple>
+        </list>
+        <string role="key" value="_author"></string>
+        <string value=""></string>
+        <string role="key" value="_iDeviceDir"></string>
+        <string value="text"></string>
+        <string role="key" value="_purpose"></string>
+        <string value=""></string>
+        <string role="key" value="_tip"></string>
+        <string value=""></string>
+        <string role="key" value="_typeName"></string>
+        <unicode value="Text"></unicode>
+        <string role="key" value="_valid"></string>
+        <bool value="1"></bool>
+        <string role="key" value="class_"></string>
+        <unicode value="text"></unicode>
+        <string role="key" value="edit"></string>
+        <bool value="0"></bool>
+        <string role="key" value="emphasis"></string>
+        <int value="0"></int>
+        <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+        <int value="1"></int>
+        <string role="key" value="fields"></string>
+        <list>
+         <instance class="exe.engine.field.TextAreaField" reference="2">
+          <dictionary>
+           <string role="key" value="_id"></string>
+           <unicode value="154_2"></unicode>
+           <string role="key" value="_idevice"></string>
+           <reference key="1"></reference>
+           <string role="key" value="_instruc"></string>
+           <string value=""></string>
+           <string role="key" value="_name"></string>
+           <string value=""></string>
+           <string role="key" value="anchor_names"></string>
+           <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
+           <string role="key" value="content_w_resourcePaths"></string>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;style&gt;
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      line-height: 1.7;
+      background: linear-gradient(135deg, #bee3f8 0%, #e6fffa 100%);
+      color: #2d3748;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background-color: #ffffff;
+      padding: 35px;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+      position: relative;
+      animation: fadeIn 1s ease-in;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    header {
+      background: linear-gradient(90deg, #3182ce, #63b3ed);
+      color: #ffffff;
+      padding: 25px;
+      text-align: center;
+      border-radius: 16px 16px 0 0;
+      margin-bottom: 25px;
+      position: relative;
+      overflow: hidden;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+      font-weight: 700;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .section {
+      margin: 30px 0;
+      padding: 25px;
+      border-left: 6px solid #63b3ed;
+      background: linear-gradient(145deg, #f7fafc, #edf2f7);
+      border-radius: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .section:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    .section h2 {
+      color: #2b6cb0;
+      font-size: 1.8em;
+      margin: 0 0 15px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+    }
+    .section p {
+      margin: 0 0 15px;
+      font-size: 1.05em;
+    }
+    .section ul {
+      margin: 0 0 15px;
+      padding-left: 20px;
+    }
+    .section ul li {
+      margin-bottom: 10px;
+    }
+    .tip {
+      font-style: italic;
+      color: #4a5568;
+      margin-top: 10px;
+    }
+    .grammar-note {
+      background-color: #e6fffa;
+      padding: 15px;
+      border-radius: 8px;
+      margin: 20px 0;
+      border-left: 4px solid #2b6cb0;
+    }
+    .grammar-note h3 {
+      margin: 0 0 10px;
+      color: #2b6cb0;
+      font-size: 1.3em;
+    }
+    .activity-preview {
+      background-color: #edf2f7;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
+    }
+    .activity-preview h3 {
+      margin: 0 0 10px;
+      color: #2b6cb0;
+      font-size: 1.3em;
+    }
+  &lt;/style&gt;
+&lt;div class=&quot;container&quot;&gt;&lt;header&gt;
+&lt;h1&gt;Unit 4: Problem solving at work - Session 2&lt;/h1&gt;
+&lt;/header&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;Introduction to the Session&lt;/h2&gt;
+&lt;p&gt;Mistakes are a natural part of any workplace, but how you communicate about them can make a big difference. Whether it’s admitting an error, offering an apology, or outlining a solution, using the right language helps you stay professional and build trust with colleagues and clients.&lt;/p&gt;
+&lt;p&gt;In this session, you’ll watch a realistic workplace conversation from a video titled “Mistakes at Work.” The dialogue features authentic English used in professional settings, focusing on how people address errors and propose solutions. This session is designed to enhance your listening skills and equip you with practical language for workplace challenges.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;🎧 What You’ll Learn&lt;/h2&gt;
+&lt;p&gt;This session will help you develop key professional competencies through targeted listening and language practice. You’ll focus on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Listening for specific information:&lt;/strong&gt; Identify key details and expressions used to describe problems and solutions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Understanding tone and intention:&lt;/strong&gt; Notice how speakers’ emotions (e.g., regret, confidence) and purposes (e.g., apologizing, reassuring) shape their language.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Using practical vocabulary:&lt;/strong&gt; Practice phrasal verbs (e.g., “deal with,” “sort out”) and functional expressions (e.g., “We’re working on it”) to handle workplace issues.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responding professionally:&lt;/strong&gt; Learn natural, polite phrases to communicate effectively in emails, calls, or meetings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class=&quot;tip&quot;&gt;💡 Tip: Pay attention to how speakers use tone to convey empathy or urgency. This will help you respond appropriately in similar situations.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+           <int value="4"></int>
+           <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+           <int value="3"></int>
+           <string role="key" value="htmlTag"></string>
+           <string value="div"></string>
+           <string role="key" value="images"></string>
+           <instance class="exe.engine.galleryidevice.GalleryImages">
+            <dictionary>
+             <string role="key" value=".listitems"></string>
+             <list></list>
+             <string role="key" value="idevice"></string>
+             <reference key="2"></reference>
+            </dictionary>
+           </instance>
+           <string role="key" value="intlinks_to_anchors"></string>
+           <dictionary></dictionary>
+           <string role="key" value="nextImageId"></string>
+           <int value="0"></int>
+           <string role="key" value="parentNode"></string>
+           <reference key="3"></reference>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="icon"></string>
+        <unicode value=""></unicode>
+        <string role="key" value="id"></string>
+        <unicode value="9"></unicode>
+        <string role="key" value="ideviceCategory"></string>
+        <unicode value="Text and Tasks"></unicode>
+        <string role="key" value="lastIdevice"></string>
+        <bool value="0"></bool>
+        <string role="key" value="nextFieldId"></string>
+        <int value="3"></int>
+        <string role="key" value="originalicon"></string>
+        <string value=""></string>
+        <string role="key" value="parentNode"></string>
+        <reference key="3"></reference>
+        <string role="key" value="systemResources"></string>
+        <list></list>
+        <string role="key" value="undo"></string>
+        <bool value="1"></bool>
+        <string role="key" value="userResources"></string>
+        <list></list>
+        <string role="key" value="version"></string>
+        <int value="0"></int>
+       </dictionary>
+      </instance>
+     </list>
+     <string role="key" value="_id"></string>
+     <unicode value="0"></unicode>
+     <string role="key" value="_package"></string>
+     <reference key="4"></reference>
+     <string role="key" value="anchor_fields"></string>
+     <list></list>
+     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+     <int value="2"></int>
+     <string role="key" value="exportType"></string>
+     <string value="website"></string>
+     <string role="key" value="last_full_node_path"></string>
+     <string value="exe-node:Unit%204%3A%20Problem%20solving%20at%20work%20-%20Session%202"></string>
+     <string role="key" value="parent"></string>
+     <none></none>
+     <string role="key" value="top_anchors_linked_from_fields"></string>
+     <list></list>
+     <string role="key" value="children"></string>
+     <list>
+      <instance class="exe.engine.node.Node" reference="7">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="1. Listening"></unicode>
+        <string role="key" value="idevices"></string>
+        <list>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="5">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="0"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="6">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="147_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="5"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;style&gt;
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      line-height: 1.7;
+      background: linear-gradient(135deg, #bee3f8 0%, #e6fffa 100%);
+      color: #2d3748;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background-color: #ffffff;
+      padding: 35px;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+      position: relative;
+      animation: fadeIn 1s ease-in;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    header {
+      background: linear-gradient(90deg, #3182ce, #63b3ed);
+      color: #ffffff;
+      padding: 25px;
+      text-align: center;
+      border-radius: 16px 16px 0 0;
+      margin-bottom: 25px;
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: '';
+      display: none;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+      font-weight: 700;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .section {
+      margin: 30px 0;
+      padding: 25px;
+      border-left: 6px solid #63b3ed;
+      background: linear-gradient(145deg, #f7fafc, #edf2f7);
+      border-radius: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .section:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    .section h2 {
+      color: #2b6cb0;
+      font-size: 1.8em;
+      margin: 0 0 15px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+    }
+    .section h2::before {
+      content: '';
+      margin-right: 0;
+    }
+    .section p {
+      margin: 0 0 15px;
+      font-size: 1.05em;
+    }
+    .section ul {
+      margin: 0 0 15px;
+      padding-left: 20px;
+    }
+    .section ul li {
+      margin-bottom: 10px;
+    }
+  &lt;/style&gt;
+&lt;div class=&quot;container&quot;&gt;&lt;header&gt;
+&lt;h1&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;Listening Strategies – Before Watching the Video&lt;/span&gt;&lt;/h1&gt;
+&lt;/header&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;How to Approach the Listening Task&lt;/h2&gt;
+&lt;p&gt;In this session, you will watch the video “Mistakes at Work” from BBC Learning English. The video is realistic and includes natural expressions, spoken interaction, and useful phrases for the workplace. To help you understand it more easily, try using these strategies — based on the CEFR recommendations for B1+ learners:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Use your knowledge of the context.&lt;/strong&gt; You know this is about making mistakes at work. Think of typical words you might hear: &lt;em&gt;error, issue, apologise, fix&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus on the speaker’s intention, not every word.&lt;/strong&gt; What is the speaker trying to do — admit a mistake, apologise, explain a solution?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notice how people feel.&lt;/strong&gt; Pay attention to tone, hesitation, or emotional words. This helps you understand attitudes and relationships.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Listen for keywords and repeated phrases.&lt;/strong&gt; Common phrases like “I’m sorry that...” or “We’ve taken steps to...” will help you follow the ideas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use the activity structure to guide your listening.&lt;/strong&gt; The video is divided into clear parts — focus only on one section at a time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Listen more than once.&lt;/strong&gt; First, get the general idea. Then, listen again to catch details and answer the questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Listening is not just about hearing — it’s about understanding the situation, the purpose, and the message. Use these strategies to get the most out of this session.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="6"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="7"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="2"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="7"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="8">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="0"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="9">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="149_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="8"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;style&gt;
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      line-height: 1.7;
+      background: linear-gradient(135deg, #bee3f8 0%, #e6fffa 100%);
+      color: #2d3748;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background-color: #ffffff;
+      padding: 35px;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+      animation: fadeIn 1s ease-in;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    header {
+      background: linear-gradient(90deg, #3182ce, #63b3ed);
+      color: #ffffff;
+      padding: 25px;
+      text-align: center;
+      border-radius: 16px 16px 0 0;
+      margin-bottom: 25px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+      font-weight: 700;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .section {
+      margin: 30px 0;
+      padding: 25px;
+      border-left: 6px solid #63b3ed;
+      background: linear-gradient(145deg, #f7fafc, #edf2f7);
+      border-radius: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .section:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    .section h2 {
+      color: #2b6cb0;
+      font-size: 1.8em;
+      margin: 0 0 15px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+    }
+    .section h2 .emoji {
+      margin-left: 8px;
+      font-size: 1.2em;
+    }
+    .section p, .section ul, .section li {
+      margin: 0 0 15px;
+      font-size: 1.05em;
+    }
+    .video-link {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .video-link a {
+      display: inline-block;
+      padding: 10px 20px;
+      background: #3182ce;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+    .video-link a:hover {
+      background: #63b3ed;
+    }
+    .question {
+      margin-bottom: 20px;
+    }
+    .question input[type=&quot;text&quot;], .question select {
+      margin: 5px 0;
+      padding: 8px;
+      font-size: 1em;
+      border: 1px solid #e2e8f0;
+      border-radius: 4px;
+      width: 100%;
+      max-width: 300px;
+    }
+    .question input[type=&quot;radio&quot;] {
+      margin-right: 6px;
+    }
+    .feedback {
+      margin-top: 5px;
+      font-weight: 600;
+      display: none;
+      padding: 8px;
+      border-radius: 4px;
+    }
+    .correct {
+      color: #15803d;
+      background: #f0fff4;
+    }
+    .incorrect {
+      color: #dc2626;
+      background: #fef2f2;
+    }
+    .buttons {
+      margin-top: 15px;
+      text-align: center;
+    }
+    .buttons button {
+      padding: 10px 20px;
+      margin: 0 10px;
+      border: none;
+      border-radius: 8px;
+      background: #3182ce;
+      color: #ffffff;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+    .buttons button:hover {
+      background: #63b3ed;
+    }
+    .score {
+      margin-top: 10px;
+      font-size: 1.1em;
+      font-weight: 600;
+      text-align: center;
+      display: none;
+      padding: 10px;
+      background: #f8fafc;
+      border-radius: 8px;
+    }
+    @media (max-width: 600px) {
+      .container {
+        margin: 20px;
+        padding: 20px;
+      }
+      header h1 {
+        font-size: 1.8em;
+      }
+      .section h2 {
+        font-size: 1.5em;
+      }
+      .buttons button {
+        padding: 8px 14px;
+        font-size: 0.9em;
+      }
+    }
+  &lt;/style&gt;
+&lt;div class=&quot;container&quot;&gt;&lt;header&gt;
+&lt;h1&gt;🎧 Listening Practice – Mistakes at Work&lt;/h1&gt;
+&lt;/header&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;📺 Watch First&lt;/h2&gt;
+&lt;p&gt;Before you start the activities, watch the video “Office English – Mistakes at Work” from BBC Learning English.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/o295dPuPNGo&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;📝 The activities below are divided by sections of the video to help you focus on each part and understand the key expressions more easily.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;activity1&quot;&gt;
+&lt;h2&gt;✅ Activity 1 – Understanding the Problem (0:00–1:40)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructions:&lt;/strong&gt; Listen to the first part of the video and choose the correct answer.&lt;/p&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;1. What feeling is mentioned at the beginning when receiving a message that says “Hi”?&lt;/p&gt;
+&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q1&quot; value=&quot;a&quot; /&gt; Excitement&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q1&quot; value=&quot;b&quot; /&gt; Guilt&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q1&quot; value=&quot;c&quot; /&gt; Confidence&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q1&quot; value=&quot;d&quot; /&gt; Curiosity&lt;/label&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;2. According to the speaker, what is important when making mistakes?&lt;/p&gt;
+&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q2&quot; value=&quot;a&quot; /&gt; Apologising immediately&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q2&quot; value=&quot;b&quot; /&gt; Asking your boss for help&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q2&quot; value=&quot;c&quot; /&gt; Learning from them&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q2&quot; value=&quot;d&quot; /&gt; Avoiding them at all costs&lt;/label&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;buttons&quot;&gt;&lt;button onclick=&quot;checkAnswers('activity1',1,2)&quot;&gt;Check Answers&lt;/button&gt; &lt;button onclick=&quot;showAnswers('activity1',1,2)&quot;&gt;Show Answers&lt;/button&gt;&lt;/div&gt;
+&lt;div class=&quot;score&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;activity2&quot;&gt;
+&lt;h2&gt;✅ Activity 2 – Useful Phrases (2:00–3:35)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructions:&lt;/strong&gt; Listen and complete the phrases using the correct missing word.&lt;/p&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;1. There’s an &lt;input type=&quot;text&quot; name=&quot;q3&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;2. I’ve realised that my team made an &lt;input type=&quot;text&quot; name=&quot;q4&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;3. I’ve accidentally sent the email out early, but I have a &lt;input type=&quot;text&quot; name=&quot;q5&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;buttons&quot;&gt;&lt;button onclick=&quot;checkAnswers('activity2',3,5)&quot;&gt;Check Answers&lt;/button&gt; &lt;button onclick=&quot;showAnswers('activity2',3,5)&quot;&gt;Show Answers&lt;/button&gt;&lt;/div&gt;
+&lt;div class=&quot;score&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;activity3&quot;&gt;
+&lt;h2&gt;✅ Activity 3 – Apologising and Responding (4:10–5:50)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructions:&lt;/strong&gt; Match each phrase with what it does.&lt;/p&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;1. I’m really sorry about that.&lt;/p&gt;
+&lt;select name=&quot;q6&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select&lt;/option&gt;
+&lt;option value=&quot;Apologising&quot;&gt;Apologising&lt;/option&gt;
+&lt;option value=&quot;Reassuring / problem-solving&quot;&gt;Reassuring / problem-solving&lt;/option&gt;
+&lt;option value=&quot;Validating the listener&quot;&gt;Validating the listener&lt;/option&gt;
+&lt;option value=&quot;Minimising the issue&quot;&gt;Minimising the issue&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;2. Let me investigate the problem.&lt;/p&gt;
+&lt;select name=&quot;q7&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select&lt;/option&gt;
+&lt;option value=&quot;Apologising&quot;&gt;Apologising&lt;/option&gt;
+&lt;option value=&quot;Reassuring / problem-solving&quot;&gt;Reassuring / problem-solving&lt;/option&gt;
+&lt;option value=&quot;Validating the listener&quot;&gt;Validating the listener&lt;/option&gt;
+&lt;option value=&quot;Minimising the issue&quot;&gt;Minimising the issue&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;3. I’m sorry that you’re upset.&lt;/p&gt;
+&lt;select name=&quot;q8&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select&lt;/option&gt;
+&lt;option value=&quot;Apologising&quot;&gt;Apologising&lt;/option&gt;
+&lt;option value=&quot;Reassuring / problem-solving&quot;&gt;Reassuring / problem-solving&lt;/option&gt;
+&lt;option value=&quot;Validating the listener&quot;&gt;Validating the listener&lt;/option&gt;
+&lt;option value=&quot;Minimising the issue&quot;&gt;Minimising the issue&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;4. I’m sorry if you’re upset.&lt;/p&gt;
+&lt;select name=&quot;q9&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select&lt;/option&gt;
+&lt;option value=&quot;Apologising&quot;&gt;Apologising&lt;/option&gt;
+&lt;option value=&quot;Reassuring / problem-solving&quot;&gt;Reassuring / problem-solving&lt;/option&gt;
+&lt;option value=&quot;Validating the listener&quot;&gt;Validating the listener&lt;/option&gt;
+&lt;option value=&quot;Minimising the issue&quot;&gt;Minimising the issue&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;buttons&quot;&gt;&lt;button onclick=&quot;checkAnswers('activity3',6,9)&quot;&gt;Check Answers&lt;/button&gt; &lt;button onclick=&quot;showAnswers('activity3',6,9)&quot;&gt;Show Answers&lt;/button&gt;&lt;/div&gt;
+&lt;div class=&quot;score&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;activity4&quot;&gt;
+&lt;h2&gt;✅ Activity 4 – Solutions and Prevention (6:10–10:00)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructions:&lt;/strong&gt; Listen and choose the correct answer.&lt;/p&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;1. What does “rest assured” mean in this context?&lt;/p&gt;
+&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q10&quot; value=&quot;a&quot; /&gt; Relax and take a break&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q10&quot; value=&quot;b&quot; /&gt; You should not worry&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q10&quot; value=&quot;c&quot; /&gt; Be certain we’re taking it seriously&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q10&quot; value=&quot;d&quot; /&gt; There is no problem at all&lt;/label&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question&quot;&gt;
+&lt;p&gt;2. What is a “debrief”?&lt;/p&gt;
+&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q11&quot; value=&quot;a&quot; /&gt; A formal apology&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q11&quot; value=&quot;b&quot; /&gt; A process of giving feedback&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q11&quot; value=&quot;c&quot; /&gt; A way to analyse what went wrong and avoid it again&lt;/label&gt;&lt;br /&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;q11&quot; value=&quot;d&quot; /&gt; A discount given to a client&lt;/label&gt;
+&lt;div class=&quot;feedback&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;buttons&quot;&gt;&lt;button onclick=&quot;checkAnswers('activity4',10,11)&quot;&gt;Check Answers&lt;/button&gt; &lt;button onclick=&quot;showAnswers('activity4',10,11)&quot;&gt;Show Answers&lt;/button&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+    const correctAnswers = { q1:'b',q2:'c',q3:'issue',q4:'error',q5:'plan',q6:'Apologising',q7:'Reassuring / problem-solving',q8:'Validating the listener',q9:'Minimising the issue',q10:'c',q11:'c' };
+    function checkAnswers(activityId,start,end){let score=0;let total=end-start+1;let sec=document.getElementById(activityId);sec.querySelectorAll('.feedback').forEach(f=&gt;f.style.display='none');for(let i=start;i&lt;=end;i++){let key='q'+i;let div=sec.querySelector(`.question:has([name=&quot;${key}&quot;])`);let fb=div.querySelector('.feedback');let ans;if(i&gt;=3&amp;&amp;i&lt;=5){ans=div.querySelector(`input[name=&quot;${key}&quot;]`).value.trim().toLowerCase();}else if(i&gt;=6&amp;&amp;i&lt;=9){ans=div.querySelector(`select[name=&quot;${key}&quot;]`).value;}else{let sel=div.querySelector(`input[name=&quot;${key}&quot;]:checked`);ans=sel?sel.value:'';}if(!ans){fb.textContent='Please select or enter an answer.';fb.className='feedback incorrect';fb.style.display='block';continue;}let correct=correctAnswers[key].toString().toLowerCase();if(ans===correct){fb.textContent='Correct!';fb.className='feedback correct';score++;}else{fb.textContent=`Incorrect. The correct answer is: ${correctAnswers[key]}.`;fb.className='feedback incorrect';}fb.style.display='block';}let sc=sec.querySelector('.score');sc.textContent=`Your score: ${score} out of ${total} (${Math.round(score/total*100)}%)`;sc.style.display='block';}
+    function showAnswers(activityId,start,end){let sec=document.getElementById(activityId);sec.querySelectorAll('.feedback').forEach(f=&gt;f.style.display='none');for(let i=start;i&lt;=end;i++){let key='q'+i;let div=sec.querySelector(`.question:has([name=&quot;${key}&quot;])`);let fb=div.querySelector('.feedback');if(i&gt;=3&amp;&amp;i&lt;=5){let inp=div.querySelector(`input[name=&quot;${key}&quot;]`);inp.value=correctAnswers[key];inp.disabled=true;}else if(i&gt;=6&amp;&amp;i&lt;=9){let sel=div.querySelector(`select[name=&quot;${key}&quot;]`);sel.value=correctAnswers[key];sel.disabled=true;}else{let rb=div.querySelector(`input[name=&quot;${key}&quot;][value=&quot;${correctAnswers[key]}&quot;]`);rb.checked=true;div.querySelectorAll(`input[name=&quot;${key}&quot;]`).forEach(r=&gt;r.disabled=true);}fb.textContent='Correct answer shown.';fb.className='feedback correct';fb.style.display='block';}let sc=sec.querySelector('.score');sc.textContent='All correct answers are shown.';sc.style.display='block';}
+  &lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="9"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="7"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="4"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="7"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="_id"></string>
+        <unicode value="1"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="4"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="website"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:Unit%204%3A%20Problem%20solving%20at%20work%20-%20Session%202:1.%20Listening"></string>
+        <string role="key" value="parent"></string>
+        <reference key="3"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list></list>
+       </dictionary>
+      </instance>
+      <instance class="exe.engine.node.Node" reference="12">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="2. Vocabulary Focus"></unicode>
+        <string role="key" value="idevices"></string>
+        <list>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="10">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="0"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="11">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="153_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="10"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;style&gt;
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      line-height: 1.7;
+      background: linear-gradient(135deg, #bee3f8 0%, #e6fffa 100%);
+      color: #2d3748;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background-color: #ffffff;
+      padding: 35px;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+      position: relative;
+      animation: fadeIn 1s ease-in;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    header {
+      background: linear-gradient(90deg, #3182ce, #63b3ed);
+      color: #ffffff;
+      padding: 25px;
+      text-align: center;
+      border-radius: 16px 16px 0 0;
+      margin-bottom: 25px;
+      position: relative;
+      overflow: hidden;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+      font-weight: 700;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .section {
+      margin: 30px 0;
+      padding: 25px;
+      border-left: 6px solid #63b3ed;
+      background: linear-gradient(145deg, #f7fafc, #edf2f7);
+      border-radius: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .section:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    .section h2 {
+      color: #2b6cb0;
+      font-size: 1.8em;
+      margin: 0 0 15px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+    }
+    .section p {
+      margin: 0 0 15px;
+      font-size: 1.05em;
+    }
+    .section ul {
+      margin: 0 0 15px;
+      padding-left: 20px;
+    }
+    .section ul li {
+      margin-bottom: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    th, td {
+      border: 1px solid #e2e8f0;
+      padding: 12px;
+      text-align: left;
+    }
+    th {
+      background-color: #63b3ed;
+      color: #ffffff;
+      font-weight: 600;
+    }
+    td {
+      background-color: #f7fafc;
+    }
+    .tip {
+      font-style: italic;
+      color: #4a5568;
+      margin-top: 10px;
+    }
+    .grammar-note {
+      background-color: #e6fffa;
+      padding: 15px;
+      border-radius: 8px;
+      margin: 20px 0;
+      border-left: 4px solid #2b6cb0;
+    }
+    .grammar-note h3 {
+      margin: 0 0 10px;
+      color: #2b6cb0;
+      font-size: 1.3em;
+    }
+    .practice-task {
+      background-color: #edf2f7;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
+    }
+    .practice-task h3 {
+      margin: 0 0 10px;
+      color: #2b6cb0;
+      font-size: 1.3em;
+    }
+  &lt;/style&gt;
+&lt;div class=&quot;container&quot;&gt;&lt;header&gt;
+&lt;h1&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;Vocabulary and Practice – Responding to Problems at Work&lt;/span&gt;&lt;/h1&gt;
+&lt;/header&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;Why This Vocabulary Matters&lt;/h2&gt;
+&lt;p&gt;When a problem arises at work — a missed deadline, a technical glitch, or an upset client — your ability to respond clearly and professionally makes all the difference. This section equips you with practical vocabulary to describe issues, propose solutions, and reassure colleagues or clients, ensuring you sound confident and competent.&lt;/p&gt;
+&lt;p&gt;You’ll focus on two key areas: &lt;strong&gt;phrasal verbs&lt;/strong&gt; for taking action and &lt;strong&gt;functional expressions&lt;/strong&gt; for empathetic and professional communication. These tools are designed for real-world workplace scenarios, such as emails, phone calls, or team meetings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explain problems clearly and concisely&lt;/li&gt;
+&lt;li&gt;Collaborate with colleagues to resolve issues&lt;/li&gt;
+&lt;li&gt;Communicate politely with clients or stakeholders&lt;/li&gt;
+&lt;li&gt;Build confidence in handling workplace challenges&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="11"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="12"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="8"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="12"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="_id"></string>
+        <unicode value="2"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="4"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="website"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:Unit%204%3A%20Problem%20solving%20at%20work%20-%20Session%202:2.%20Vocabulary%20Focus"></string>
+        <string role="key" value="parent"></string>
+        <reference key="3"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list>
+         <instance class="exe.engine.node.Node" reference="15">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="2.1. Vocabulary Focus"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="13">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="14">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="150_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="13"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;style&gt;
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      line-height: 1.7;
+      background: linear-gradient(135deg, #bee3f8 0%, #e6fffa 100%);
+      color: #2d3748;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background-color: #ffffff;
+      padding: 35px;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+      position: relative;
+      animation: fadeIn 1s ease-in;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    header {
+      background: linear-gradient(90deg, #3182ce, #63b3ed);
+      color: #ffffff;
+      padding: 25px;
+      text-align: center;
+      border-radius: 16px 16px 0 0;
+      margin-bottom: 25px;
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: '';
+      display: none;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+      font-weight: 700;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .section {
+      margin: 30px 0;
+      padding: 25px;
+      border-left: 6px solid #63b3ed;
+      background: linear-gradient(145deg, #f7fafc, #edf2f7);
+      border-radius: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .section:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    .section h2 {
+      color: #2b6cb0;
+      font-size: 1.8em;
+      margin: 0 0 15px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+    }
+    .section h2::before {
+      content: '';
+      margin-right: 0;
+    }
+    .section p {
+      margin: 0 0 15px;
+      font-size: 1.05em;
+    }
+    .section ul {
+      margin: 0 0 15px;
+      padding-left: 20px;
+    }
+    .section ul li {
+      margin-bottom: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    th, td {
+      border: 1px solid #e2e8f0;
+      padding: 12px;
+      text-align: left;
+    }
+    th {
+      background-color: #63b3ed;
+      color: #ffffff;
+      font-weight: 600;
+    }
+    td {
+      background-color: #f7fafc;
+    }
+    .tip {
+      font-style: italic;
+      color: #4a5568;
+      margin-top: 10px;
+    }
+  &lt;/style&gt;
+&lt;div class=&quot;container&quot;&gt;&lt;header&gt;
+&lt;h1&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;Vocabulary Focus – Dealing with Problems at Work&lt;/span&gt;&lt;/h1&gt;
+&lt;/header&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;Why This Vocabulary Matters&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;resources/U4S2_VOCABULARY.PNG&quot; alt=&quot;&quot; width=&quot;250&quot; height=&quot;375&quot; style=&quot;float: right;&quot; /&gt;Navigating workplace challenges — like delays, complaints, or technical issues — requires clear and professional communication. This vocabulary equips you with practical expressions and phrasal verbs to address problems confidently, whether in meetings, emails, or customer interactions.&lt;/p&gt;
+&lt;p&gt;In this session, you’ll learn two key sets of language tools: phrasal verbs for problem-solving and functional expressions for supportive communication.&lt;br /&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🎧 Complementary Audio – Guided Explanation&lt;/strong&gt;&lt;br /&gt;This audio supports you as you go through the lesson. Listen to it for a step-by-step explanation with spoken examples. It’s especially helpful if you prefer learning by listening or want to review while doing other tasks.&lt;br /&gt;&lt;audio style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; controls=&quot;controls&quot; src=&quot;resources/U4S2_Vocabulary_Foucs.mp3&quot;&gt;&lt;a href=&quot;resources/U4S2_Vocabulary_Foucs.mp3&quot;&gt;audio/mpeg&lt;/a&gt;&lt;/audio&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;🔧 Phrasal Verbs for Solving Problems&lt;/h2&gt;
+&lt;p&gt;These phrasal verbs are commonly used when addressing workplace issues. They’re professional yet conversational, perfect for emails, calls, or team discussions.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Phrasal Verb&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;th&gt;Example&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;deal with&lt;/td&gt;
+&lt;td&gt;To handle or manage a problem&lt;/td&gt;
+&lt;td&gt;We need to deal with the client’s concerns promptly.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sort out&lt;/td&gt;
+&lt;td&gt;To resolve or fix an issue&lt;/td&gt;
+&lt;td&gt;Let’s sort out the scheduling conflict today.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;follow up&lt;/td&gt;
+&lt;td&gt;To check or continue communication&lt;/td&gt;
+&lt;td&gt;I’ll follow up with the team tomorrow morning.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;figure out&lt;/td&gt;
+&lt;td&gt;To understand or solve something&lt;/td&gt;
+&lt;td&gt;We’re trying to figure out why the system crashed.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;put through&lt;/td&gt;
+&lt;td&gt;To connect someone via phone&lt;/td&gt;
+&lt;td&gt;I’ll put you through to the support team.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class=&quot;tip&quot;&gt;💡 Tip: Use “sort out” and “figure out” in casual discussions, but avoid overuse in formal emails.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;💬 Functional Expressions for Supportive Communication&lt;/h2&gt;
+&lt;p&gt;These expressions help you respond professionally and empathetically when addressing complaints or issues, showing you’re engaged and committed to finding solutions.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Expression&lt;/th&gt;
+&lt;th&gt;When to Use&lt;/th&gt;
+&lt;th&gt;Example&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;We’re working on it.&lt;/td&gt;
+&lt;td&gt;To show a solution is in progress&lt;/td&gt;
+&lt;td&gt;We’re working on it and will update you soon.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;I’ll escalate this.&lt;/td&gt;
+&lt;td&gt;To indicate you’ll pass the issue to higher authority&lt;/td&gt;
+&lt;td&gt;I’ll escalate this to the manager for review.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Let me get back to you.&lt;/td&gt;
+&lt;td&gt;To request time before responding&lt;/td&gt;
+&lt;td&gt;Let me get back to you after checking the details.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Thanks for your patience.&lt;/td&gt;
+&lt;td&gt;To acknowledge someone’s wait&lt;/td&gt;
+&lt;td&gt;Thanks for your patience while we resolve this.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class=&quot;tip&quot;&gt;💡 Tip: These phrases work well in customer service or team communication to build trust and clarity.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;🧠 How to Use This Vocabulary&lt;/h2&gt;
+&lt;p&gt;Incorporate these expressions into your daily work communication:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emails or phone calls with clients or colleagues&lt;/li&gt;
+&lt;li&gt;Team meetings to discuss and resolve issues&lt;/li&gt;
+&lt;li&gt;Customer service scenarios to address complaints&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Practice these phrases in the activities and writing tasks of this session. Pay attention to how they’re used in the “Mistakes at Work” video and try them in your own conversations.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="20246"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="5_150_2.8"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="16">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="13"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="4"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="U4S2_Vocabulary_Foucs.mp3"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="/var/folders/z_/ptn8hsg11334f85yvnnv077m0000gn/T/tmpCOgNxN/U4S2_Vocabulary_Foucs.mp3"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="71405788ad3895619ac343d190fda870"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="14"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="20247"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="5_150_2.9"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="17">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="13"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="4"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="U4S2_Vocabulary_Foucs.mp3"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="/var/folders/z_/ptn8hsg11334f85yvnnv077m0000gn/T/tmpCOgNxN/U4S2_Vocabulary_Foucs.mp3"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="71405788ad3895619ac343d190fda870"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="14"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="20248"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="5_150_2.10"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="18">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="13"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="4"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="U4S2_VOCABULARY.PNG"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="/var/folders/z_/ptn8hsg11334f85yvnnv077m0000gn/T/tmpCOgNxN/U4S2_VOCABULARY.PNG"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="1bbe77cf9c20bcd4b22e736d5c45bcab"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="14"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                   </list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="14"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="11"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="15"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="5"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="15"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="16"></reference>
+               <reference key="17"></reference>
+               <reference key="18"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="5"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Unit%204%3A%20Problem%20solving%20at%20work%20-%20Session%202:2.%20Vocabulary%20Focus:2.1.%20Vocabulary%20Focus"></string>
+           <string role="key" value="parent"></string>
+           <reference key="12"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="21">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="2.2. Practice"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="19">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="20">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="152_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="19"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;style&gt;
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      line-height: 1.7;
+      background: linear-gradient(135deg, #bee3f8 0%, #e6fffa 100%);
+      color: #2d3748;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background-color: #ffffff;
+      padding: 35px;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+      position: relative;
+      animation: fadeIn 1s ease-in;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .section {
+      margin: 30px 0;
+      padding: 25px;
+      border-left: 6px solid #63b3ed;
+      background: linear-gradient(145deg, #f7fafc, #edf2f7);
+      border-radius: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .section:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    .section h2 {
+      color: #2b6cb0;
+      font-size: 1.8em;
+      margin: 0 0 15px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+    }
+    .section p {
+      margin: 0 0 15px;
+      font-size: 1.05em;
+    }
+    .section ul {
+      margin: 0 0 15px;
+      padding-left: 20px;
+    }
+    .section ul li {
+      margin-bottom: 15px;
+    }
+    select {
+      padding: 8px;
+      font-size: 1em;
+      border: 1px solid #e2e8f0;
+      border-radius: 5px;
+      background-color: #f7fafc;
+      width: 200px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    th, td {
+      border: 1px solid #e2e8f0;
+      padding: 12px;
+      text-align: left;
+    }
+    th {
+      background-color: #63b3ed;
+      color: #ffffff;
+      font-weight: 600;
+    }
+    td {
+      background-color: #f7fafc;
+    }
+    .feedback {
+      margin-top: 10px;
+      font-weight: 600;
+    }
+    .correct {
+      color: #2b6cb0;
+    }
+    .incorrect {
+      color: #e53e3e;
+    }
+    .check-answers-btn {
+      padding: 10px 20px;
+      background-color: #63b3ed;
+      color: #ffffff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 1em;
+      margin-top: 10px;
+    }
+    .check-answers-btn:hover {
+      background-color: #3182ce;
+    }
+    .tip {
+      font-style: italic;
+      color: #4a5568;
+      margin-top: 10px;
+    }
+  &lt;/style&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;Exercise 1 – Multiple Choice: Phrasal Verbs&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructions:&lt;/strong&gt; Select the correct phrasal verb to complete each sentence using the dropdown menu, then click &quot;Check Answers&quot; to see feedback.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1. We need to _____ the complaint before it escalates further.&lt;br /&gt;&lt;select name=&quot;q1&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;figure out&quot;&gt;figure out&lt;/option&gt;
+&lt;option value=&quot;deal with&quot;&gt;deal with&lt;/option&gt;
+&lt;option value=&quot;put through&quot;&gt;put through&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback1&quot;&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;2. Can you _____ me to the technical support team, please?&lt;br /&gt;&lt;select name=&quot;q2&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;follow up&quot;&gt;follow up&lt;/option&gt;
+&lt;option value=&quot;sort out&quot;&gt;sort out&lt;/option&gt;
+&lt;option value=&quot;put through&quot;&gt;put through&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback2&quot;&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;3. Let’s _____ the details of the project timeline tomorrow.&lt;br /&gt;&lt;select name=&quot;q3&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;follow up&quot;&gt;follow up&lt;/option&gt;
+&lt;option value=&quot;figure out&quot;&gt;figure out&lt;/option&gt;
+&lt;option value=&quot;deal with&quot;&gt;deal with&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback3&quot;&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;4. It’s challenging to _____ why the payment didn’t go through.&lt;br /&gt;&lt;select name=&quot;q4&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;sort out&quot;&gt;sort out&lt;/option&gt;
+&lt;option value=&quot;figure out&quot;&gt;figure out&lt;/option&gt;
+&lt;option value=&quot;put through&quot;&gt;put through&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback4&quot;&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;button class=&quot;check-answers-btn&quot; onclick=&quot;checkAnswers1()&quot;&gt;Check Answers&lt;/button&gt;
+&lt;p class=&quot;tip&quot;&gt;💡 Tip: Use “deal with” for handling issues and “figure out” for solving or understanding problems.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;Exercise 2 – Match the Expression to the Context&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructions:&lt;/strong&gt; Select the correct functional expression for each workplace situation, then click &quot;Check Answers&quot; to see feedback.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Situation&lt;/th&gt;
+&lt;th&gt;Expression&lt;/th&gt;
+&lt;th&gt;Feedback&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;You’re addressing a client who has been waiting for an update.&lt;/td&gt;
+&lt;td&gt;&lt;select name=&quot;match1&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;Thanks for your patience&quot;&gt;Thanks for your patience&lt;/option&gt;
+&lt;option value=&quot;I’ll escalate this&quot;&gt;I’ll escalate this&lt;/option&gt;
+&lt;option value=&quot;We’re working on it&quot;&gt;We’re working on it&lt;/option&gt;
+&lt;option value=&quot;Let me get back to you&quot;&gt;Let me get back to you&lt;/option&gt;
+&lt;/select&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback_match1&quot;&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;You need to involve a supervisor to resolve an issue.&lt;/td&gt;
+&lt;td&gt;&lt;select name=&quot;match2&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;Thanks for your patience&quot;&gt;Thanks for your patience&lt;/option&gt;
+&lt;option value=&quot;I’ll escalate this&quot;&gt;I’ll escalate this&lt;/option&gt;
+&lt;option value=&quot;We’re working on it&quot;&gt;We’re working on it&lt;/option&gt;
+&lt;option value=&quot;Let me get back to you&quot;&gt;Let me get back to you&lt;/option&gt;
+&lt;/select&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback_match2&quot;&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;You’re actively addressing a technical glitch reported by a user.&lt;/td&gt;
+&lt;td&gt;&lt;select name=&quot;match3&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;Thanks for your patience&quot;&gt;Thanks for your patience&lt;/option&gt;
+&lt;option value=&quot;I’ll escalate this&quot;&gt;I’ll escalate this&lt;/option&gt;
+&lt;option value=&quot;We’re working on it&quot;&gt;We’re working on it&lt;/option&gt;
+&lt;option value=&quot;Let me get back to you&quot;&gt;Let me get back to you&lt;/option&gt;
+&lt;/select&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback_match3&quot;&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;You need more time to provide a detailed response.&lt;/td&gt;
+&lt;td&gt;&lt;select name=&quot;match4&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;Thanks for your patience&quot;&gt;Thanks for your patience&lt;/option&gt;
+&lt;option value=&quot;I’ll escalate this&quot;&gt;I’ll escalate this&lt;/option&gt;
+&lt;option value=&quot;We’re working on it&quot;&gt;We’re working on it&lt;/option&gt;
+&lt;option value=&quot;Let me get back to you&quot;&gt;Let me get back to you&lt;/option&gt;
+&lt;/select&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback_match4&quot;&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;button class=&quot;check-answers-btn&quot; onclick=&quot;checkAnswers2()&quot;&gt;Check Answers&lt;/button&gt;
+&lt;p class=&quot;tip&quot;&gt;💡 Tip: These expressions are great for showing empathy and professionalism in customer-facing roles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;h2&gt;Exercise 3 – Fill in the Blank&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructions:&lt;/strong&gt; Select the correct phrasal verb from the dropdown to complete each sentence. One option is extra. Click &quot;Check Answers&quot; to see feedback.&lt;br /&gt;&lt;strong&gt;Options:&lt;/strong&gt; deal with – follow up – figure out – sort out – put through&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1. I’ll _____ you to the department handling returns.&lt;br /&gt;&lt;select name=&quot;fill1&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;deal with&quot;&gt;deal with&lt;/option&gt;
+&lt;option value=&quot;follow up&quot;&gt;follow up&lt;/option&gt;
+&lt;option value=&quot;figure out&quot;&gt;figure out&lt;/option&gt;
+&lt;option value=&quot;sort out&quot;&gt;sort out&lt;/option&gt;
+&lt;option value=&quot;put through&quot;&gt;put through&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback_fill1&quot;&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;2. We need to _____ the budget issues before the next meeting.&lt;br /&gt;&lt;select name=&quot;fill2&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;deal with&quot;&gt;deal with&lt;/option&gt;
+&lt;option value=&quot;follow up&quot;&gt;follow up&lt;/option&gt;
+&lt;option value=&quot;figure out&quot;&gt;figure out&lt;/option&gt;
+&lt;option value=&quot;sort out&quot;&gt;sort out&lt;/option&gt;
+&lt;option value=&quot;put through&quot;&gt;put through&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback_fill2&quot;&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;3. Can you _____ with the supplier to confirm the order details?&lt;br /&gt;&lt;select name=&quot;fill3&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;deal with&quot;&gt;deal with&lt;/option&gt;
+&lt;option value=&quot;follow up&quot;&gt;follow up&lt;/option&gt;
+&lt;option value=&quot;figure out&quot;&gt;figure out&lt;/option&gt;
+&lt;option value=&quot;sort out&quot;&gt;sort out&lt;/option&gt;
+&lt;option value=&quot;put through&quot;&gt;put through&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback_fill3&quot;&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;4. It’s important to _____ the root cause of the delay.&lt;br /&gt;&lt;select name=&quot;fill4&quot;&gt;
+&lt;option value=&quot;&quot;&gt;Select an option&lt;/option&gt;
+&lt;option value=&quot;deal with&quot;&gt;deal with&lt;/option&gt;
+&lt;option value=&quot;follow up&quot;&gt;follow up&lt;/option&gt;
+&lt;option value=&quot;figure out&quot;&gt;figure out&lt;/option&gt;
+&lt;option value=&quot;sort out&quot;&gt;sort out&lt;/option&gt;
+&lt;option value=&quot;put through&quot;&gt;put through&lt;/option&gt;
+&lt;/select&gt;
+&lt;div class=&quot;feedback&quot; id=&quot;feedback_fill4&quot;&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;button class=&quot;check-answers-btn&quot; onclick=&quot;checkAnswers3()&quot;&gt;Check Answers&lt;/button&gt;
+&lt;p class=&quot;tip&quot;&gt;💡 Tip: “Sort out” is great for resolving logistical or operational issues, while “put through” is specific to phone connections.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+    function checkAnswers1() {
+      const answers = {
+        q1: &quot;deal with&quot;,
+        q2: &quot;put through&quot;,
+        q3: &quot;follow up&quot;,
+        q4: &quot;figure out&quot;
+      };
+      for (let i = 1; i &lt;= 4; i++) {
+        const select = document.querySelector(`select[name=&quot;q${i}&quot;]`);
+        const feedback = document.querySelector(`#feedback${i}`);
+        const userAnswer = select.value;
+        if (userAnswer === &quot;&quot;) {
+          feedback.textContent = &quot;Please select an answer.&quot;;
+          feedback.className = &quot;feedback incorrect&quot;;
+        } else if (userAnswer === answers[`q${i}`]) {
+          feedback.textContent = &quot;Correct! ✅&quot;;
+          feedback.className = &quot;feedback correct&quot;;
+        } else {
+          feedback.textContent = `Incorrect. The correct answer is &quot;${answers[`q${i}`]}&quot;.`;
+          feedback.className = &quot;feedback incorrect&quot;;
+        }
+      }
+    }
+
+    function checkAnswers2() {
+      const answers = {
+        match1: &quot;Thanks for your patience&quot;,
+        match2: &quot;I’ll escalate this&quot;,
+        match3: &quot;We’re working on it&quot;,
+        match4: &quot;Let me get back to you&quot;
+      };
+      for (let i = 1; i &lt;= 4; i++) {
+        const select = document.querySelector(`select[name=&quot;match${i}&quot;]`);
+        const feedback = document.querySelector(`#feedback_match${i}`);
+        const userAnswer = select.value;
+        if (userAnswer === &quot;&quot;) {
+          feedback.textContent = &quot;Please select an answer.&quot;;
+          feedback.className = &quot;feedback incorrect&quot;;
+        } else if (userAnswer === answers[`match${i}`]) {
+          feedback.textContent = &quot;Correct! ✅&quot;;
+          feedback.className = &quot;feedback correct&quot;;
+        } else {
+          feedback.textContent = `Incorrect. The correct answer is &quot;${answers[`match${i}`]}&quot;.`;
+          feedback.className = &quot;feedback incorrect&quot;;
+        }
+      }
+    }
+
+    function checkAnswers3() {
+      const answers = {
+        fill1: &quot;put through&quot;,
+        fill2: &quot;sort out&quot;,
+        fill3: &quot;follow up&quot;,
+        fill4: &quot;figure out&quot;
+      };
+      for (let i = 1; i &lt;= 4; i++) {
+        const select = document.querySelector(`select[name=&quot;fill${i}&quot;]`);
+        const feedback = document.querySelector(`#feedback_fill${i}`);
+        const userAnswer = select.value;
+        if (userAnswer === &quot;&quot;) {
+          feedback.textContent = &quot;Please select an answer.&quot;;
+          feedback.className = &quot;feedback incorrect&quot;;
+        } else if (userAnswer === answers[`fill${i}`]) {
+          feedback.textContent = &quot;Correct! ✅&quot;;
+          feedback.className = &quot;feedback correct&quot;;
+        } else {
+          feedback.textContent = `Incorrect. The correct answer is &quot;${answers[`fill${i}`]}&quot;.`;
+          feedback.className = &quot;feedback incorrect&quot;;
+        }
+      }
+    }
+  &lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="20"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="21"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="7"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="21"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="6"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Unit%204%3A%20Problem%20solving%20at%20work%20-%20Session%202:2.%20Vocabulary%20Focus:2.2.%20Practice"></string>
+           <string role="key" value="parent"></string>
+           <reference key="12"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+        </list>
+       </dictionary>
+      </instance>
+     </list>
+    </dictionary>
+   </instance>
+   <unicode role="key" value="1"></unicode>
+   <reference key="7"></reference>
+   <unicode role="key" value="2"></unicode>
+   <reference key="12"></reference>
+   <unicode role="key" value="5"></unicode>
+   <reference key="15"></reference>
+   <unicode role="key" value="6"></unicode>
+   <reference key="21"></reference>
+  </dictionary>
+  <string role="key" value="_objectives"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_preknowledge"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_templateFile"></string>
+  <string value="Base"></string>
+  <string role="key" value="backgroundImgTile"></string>
+  <bool value="0"></bool>
+  <string role="key" value="currentNode"></string>
+  <reference key="7"></reference>
+  <string role="key" value="dublinCore"></string>
+  <instance class="exe.engine.package.DublinCore">
+   <dictionary>
+    <string role="key" value="contributors"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="coverage"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="creator"></string>
+    <unicode value="Juan Ignacio Plaza Rodríguez"></unicode>
+    <string role="key" value="date"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="description"></string>
+    <unicode value="Todas las imágenes incluidas en esta unidad han sido generadas mediante inteligencia artificial a través de la herramienta ChatGPT (OpenAI).
+Estas imágenes han sido creadas exclusivamente para uso educativo y no reproducen contenido preexistente. No están sujetas a derechos de autor de terceros y pueden ser utilizadas dentro del marco del proyecto educativo sin fines comerciales.
+Se aplican los términos de uso y licencias correspondientes al servicio de generación de imágenes de OpenAI, que permiten su uso para fines educativos y de desarrollo de materiales propios."></unicode>
+    <string role="key" value="format"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="identifier"></string>
+    <unicode value="4a7d755e-34a5-410a-a7d4-601881136623"></unicode>
+    <string role="key" value="language"></string>
+    <unicode value="es"></unicode>
+    <string role="key" value="publisher"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="relation"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="rights"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="source"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="subject"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="title"></string>
+    <unicode value="Unit 4: Problem solving at work - Session 2"></unicode>
+    <string role="key" value="type"></string>
+    <unicode value=""></unicode>
+   </dictionary>
+  </instance>
+  <string role="key" value="exe.engine.package.Package.persistenceVersion"></string>
+  <int value="16"></int>
+  <string role="key" value="exportMetadataType"></string>
+  <string value="LOMES"></string>
+  <string role="key" value="exportSource"></string>
+  <bool value="1"></bool>
+  <string role="key" value="footer"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="isLoading"></string>
+  <bool value="0"></bool>
+  <string role="key" value="license"></string>
+  <unicode value="creative commons: attribution - share alike 4.0"></unicode>
+  <string role="key" value="lom"></string>
+  <instance class="exe.engine.lom.lomsubs.lomSub">
+   <dictionary>
+    <string role="key" value="__index__"></string>
+    <dictionary></dictionary>
+    <string role="key" value="__oldchild__"></string>
+    <none></none>
+    <string role="key" value="annotation"></string>
+    <list></list>
+    <string role="key" value="classification"></string>
+    <list></list>
+    <string role="key" value="educational"></string>
+    <list>
+     <instance class="exe.engine.lom.lomsubs.educationalSub">
+      <dictionary>
+       <string role="key" value="cognitiveProcess"></string>
+       <list></list>
+       <string role="key" value="context"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="other"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="school"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="description"></string>
+       <list></list>
+       <string role="key" value="difficulty"></string>
+       <none></none>
+       <string role="key" value="intendedEndUserRole"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="learner"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="interactivityLevel"></string>
+       <none></none>
+       <string role="key" value="interactivityType"></string>
+       <none></none>
+       <string role="key" value="language"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="es"></string>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="learningResourceType"></string>
+       <list></list>
+       <string role="key" value="semanticDensity"></string>
+       <none></none>
+       <string role="key" value="typicalAgeRange"></string>
+       <list></list>
+       <string role="key" value="typicalLearningTime"></string>
+       <none></none>
+      </dictionary>
+     </instance>
+    </list>
+    <string role="key" value="general"></string>
+    <instance class="exe.engine.lom.lomsubs.generalSub">
+     <dictionary>
+      <string role="key" value="aggregationLevel"></string>
+      <instance class="exe.engine.lom.lomsubs.aggregationLevelSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOMv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="aggregationLevel"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.aggregationLevelValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="2"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="coverage"></string>
+      <list></list>
+      <string role="key" value="description"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="Todas las im\xc3\xa1genes incluidas en esta unidad han sido generadas mediante inteligencia artificial a trav\xc3\xa9s de la herramienta ChatGPT (OpenAI).\nEstas im\xc3\xa1genes han sido creadas exclusivamente para uso educativo y no reproducen contenido preexistente. No est\xc3\xa1n sujetas a derechos de autor de terceros y pueden ser utilizadas dentro del marco del proyecto educativo sin fines comerciales.\nSe aplican los t\xc3\xa9rminos de uso y licencias correspondientes al servicio de generaci\xc3\xb3n de im\xc3\xa1genes de OpenAI, que permiten su uso para fines educativos y de desarrollo de materiales propios."></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.identifierSub">
+        <dictionary>
+         <string role="key" value="catalog"></string>
+         <instance class="exe.engine.lom.lomsubs.catalogSub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="catalog"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="My Catalog"></unicode>
+          </dictionary>
+         </instance>
+         <string role="key" value="entry"></string>
+         <instance class="exe.engine.lom.lomsubs.entrySub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="entry"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="4a7d755e-34a5-410a-a7d4-601881136623"></unicode>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="keyword"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="valueOf_"></string>
+         <string value="es"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="structure"></string>
+      <none></none>
+      <string role="key" value="title"></string>
+      <instance class="exe.engine.lom.lomsubs.titleSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="string"></string>
+        <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Unit 4: Problem solving at work - Session 2"></string>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="uniqueElementName"></string>
+        <none></none>
+       </dictionary>
+      </instance>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="general"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="lifeCycle"></string>
+    <instance class="exe.engine.lom.lomsubs.lifeCycleSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2025-05-21T19:27:28.00+02:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Juan Ignacio Plaza Rodr\xc3\xadguez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="author"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="status"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+      <string role="key" value="version"></string>
+      <none></none>
+     </dictionary>
+    </instance>
+    <string role="key" value="metaMetadata"></string>
+    <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2025-05-21T19:27:25.00+02:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Juan Ignacio Plaza Rodr\xc3\xadguez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="valueOf_"></string>
+        <string value="es"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="metadataSchema"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.metadataSchemaSub">
+        <dictionary>
+         <string role="key" value="valueOf_"></string>
+         <string value="LOMv1.0"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="metaMetadata"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="relation"></string>
+    <list></list>
+    <string role="key" value="rights"></string>
+    <instance class="exe.engine.lom.lomsubs.rightsSub">
+     <dictionary>
+      <string role="key" value="access"></string>
+      <none></none>
+      <string role="key" value="copyrightAndOtherRestrictions"></string>
+      <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOMv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="copyrightAndOtherRestrictions"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="yes"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="cost"></string>
+      <none></none>
+      <string role="key" value="description"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+     </dictionary>
+    </instance>
+    <string role="key" value="technical"></string>
+    <none></none>
+   </dictionary>
+  </instance>
+  <string role="key" value="lomEs"></string>
+  <instance class="exe.engine.lom.lomsubs.lomSub">
+   <dictionary>
+    <string role="key" value="__index__"></string>
+    <dictionary></dictionary>
+    <string role="key" value="__oldchild__"></string>
+    <none></none>
+    <string role="key" value="annotation"></string>
+    <list></list>
+    <string role="key" value="classification"></string>
+    <list></list>
+    <string role="key" value="educational"></string>
+    <list>
+     <instance class="exe.engine.lom.lomsubs.educationalSub">
+      <dictionary>
+       <string role="key" value="cognitiveProcess"></string>
+       <list></list>
+       <string role="key" value="context"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="presencial"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="classroom"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="description"></string>
+       <list></list>
+       <string role="key" value="difficulty"></string>
+       <none></none>
+       <string role="key" value="intendedEndUserRole"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="learner"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="interactivityLevel"></string>
+       <none></none>
+       <string role="key" value="interactivityType"></string>
+       <none></none>
+       <string role="key" value="language"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="es"></string>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="learningResourceType"></string>
+       <list></list>
+       <string role="key" value="semanticDensity"></string>
+       <none></none>
+       <string role="key" value="typicalAgeRange"></string>
+       <list></list>
+       <string role="key" value="typicalLearningTime"></string>
+       <none></none>
+      </dictionary>
+     </instance>
+    </list>
+    <string role="key" value="general"></string>
+    <instance class="exe.engine.lom.lomsubs.generalSub">
+     <dictionary>
+      <string role="key" value="aggregationLevel"></string>
+      <instance class="exe.engine.lom.lomsubs.aggregationLevelSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOM-ESv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="aggregationLevel"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.aggregationLevelValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="2"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="coverage"></string>
+      <list></list>
+      <string role="key" value="description"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="Todas las im\xc3\xa1genes incluidas en esta unidad han sido generadas mediante inteligencia artificial a trav\xc3\xa9s de la herramienta ChatGPT (OpenAI).\nEstas im\xc3\xa1genes han sido creadas exclusivamente para uso educativo y no reproducen contenido preexistente. No est\xc3\xa1n sujetas a derechos de autor de terceros y pueden ser utilizadas dentro del marco del proyecto educativo sin fines comerciales.\nSe aplican los t\xc3\xa9rminos de uso y licencias correspondientes al servicio de generaci\xc3\xb3n de im\xc3\xa1genes de OpenAI, que permiten su uso para fines educativos y de desarrollo de materiales propios."></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.identifierSub">
+        <dictionary>
+         <string role="key" value="catalog"></string>
+         <instance class="exe.engine.lom.lomsubs.catalogSub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="catalog"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="My Catalog"></unicode>
+          </dictionary>
+         </instance>
+         <string role="key" value="entry"></string>
+         <instance class="exe.engine.lom.lomsubs.entrySub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="entry"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="4a7d755e-34a5-410a-a7d4-601881136623"></unicode>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="keyword"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="valueOf_"></string>
+         <string value="es"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="structure"></string>
+      <none></none>
+      <string role="key" value="title"></string>
+      <instance class="exe.engine.lom.lomsubs.titleSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="string"></string>
+        <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Unit 4: Problem solving at work - Session 2"></string>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="uniqueElementName"></string>
+        <none></none>
+       </dictionary>
+      </instance>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="general"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="lifeCycle"></string>
+    <instance class="exe.engine.lom.lomsubs.lifeCycleSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2025-05-21T19:27:28.00+02:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Juan Ignacio Plaza Rodr\xc3\xadguez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="author"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="status"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+      <string role="key" value="version"></string>
+      <none></none>
+     </dictionary>
+    </instance>
+    <string role="key" value="metaMetadata"></string>
+    <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2025-05-21T19:27:25.00+02:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Juan Ignacio Plaza Rodr\xc3\xadguez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="valueOf_"></string>
+        <string value="es"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="metadataSchema"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.metadataSchemaSub">
+        <dictionary>
+         <string role="key" value="valueOf_"></string>
+         <string value="LOM-ESv1.0"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="metaMetadata"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="relation"></string>
+    <list></list>
+    <string role="key" value="rights"></string>
+    <instance class="exe.engine.lom.lomsubs.rightsSub">
+     <dictionary>
+      <string role="key" value="access"></string>
+      <instance class="exe.engine.lom.lomsubs.accessSub">
+       <dictionary>
+        <string role="key" value="accessType"></string>
+        <instance class="exe.engine.lom.lomsubs.accessTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="accessType"></string>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.accessTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="universal"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <string role="key" value="description"></string>
+        <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list>
+           <instance class="exe.engine.lom.lomsubs.LangStringSub">
+            <dictionary>
+             <string role="key" value="language"></string>
+             <string value="en"></string>
+             <string role="key" value="valueOf_"></string>
+             <unicode value="Default"></unicode>
+            </dictionary>
+           </instance>
+          </list>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="access"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="copyrightAndOtherRestrictions"></string>
+      <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOM-ESv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="copyrightAndOtherRestrictions"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="creative commons: attribution - share alike"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="cost"></string>
+      <none></none>
+      <string role="key" value="description"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="rights"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="technical"></string>
+    <none></none>
+   </dictionary>
+  </instance>
+  <string role="key" value="mxmlforcemediaonly"></string>
+  <bool value="0"></bool>
+  <string role="key" value="mxmlheight"></string>
+  <string value=""></string>
+  <string role="key" value="mxmlprofilelist"></string>
+  <string value=""></string>
+  <string role="key" value="mxmlwidth"></string>
+  <string value=""></string>
+  <string role="key" value="release"></string>
+  <string value="2.9"></string>
+  <string role="key" value="resources"></string>
+  <dictionary>
+   <string role="key" value="1bbe77cf9c20bcd4b22e736d5c45bcab"></string>
+   <list>
+    <reference key="18"></reference>
+   </list>
+   <string role="key" value="71405788ad3895619ac343d190fda870"></string>
+   <list>
+    <reference key="16"></reference>
+    <reference key="17"></reference>
+   </list>
+  </dictionary>
+  <string role="key" value="root"></string>
+  <reference key="3"></reference>
+  <string role="key" value="scolinks"></string>
+  <bool value="0"></bool>
+  <string role="key" value="scowsinglepage"></string>
+  <bool value="0"></bool>
+  <string role="key" value="scowwebsite"></string>
+  <bool value="0"></bool>
+  <string role="key" value="style"></string>
+  <unicode value="INTEF"></unicode>
+  <string role="key" value="sugaractivityname"></string>
+  <string value=""></string>
+  <string role="key" value="sugarservicename"></string>
+  <string value=""></string>
+  <string role="key" value="tempFile"></string>
+  <bool value="0"></bool>
+ </dictionary>
+</instance>
